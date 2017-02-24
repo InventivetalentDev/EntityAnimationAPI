@@ -1,0 +1,6 @@
+name: EntityAnimationAPI
+main: org.inventivetalent.entityanimation.AnimationPlugin
+author: inventivetalent
+version: ${project.version}
+
+softdepend: [PacketListenerApi]
